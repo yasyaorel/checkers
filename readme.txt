@@ -1,0 +1,1 @@
+Making a board with checkers using position: absolute.
